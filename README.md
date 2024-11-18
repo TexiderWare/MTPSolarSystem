@@ -1,2 +1,2 @@
 # MTPSolarSystem
-'''MTPSolarSystem plugin by MTProject Industries Dev Team'''
+MTPSolarSystem plugin by MTProject Industries Dev Team
